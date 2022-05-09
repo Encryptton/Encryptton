@@ -1,3 +1,9 @@
+<style>
+  img{
+    width: 35%;
+  }
+</style>
+
 <h1 align="center">
   Hello, I'm Guilherme, also known as Encrypton
 </h1>
