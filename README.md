@@ -17,10 +17,10 @@
   My favorite languages:
 </h3>
 <a href="">
-  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" alt="image with the php logo button in png format" width="60px" height="60px">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" alt="image with the php logo button in png format" width="60px" height="60px">
 </a>
 <a href="">
-  <img src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" alt="image with the css logo button in png format" width="60px" height="60px">
+  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" alt="image with the css logo button in png format" width="40px" height="40px">
 </a>
 <a href="">
   <img src="https://cdn.picpng.com/logo/language-logo-python-44976.png" alt="image with the python logo button in png format" width="40px" height="40px">
