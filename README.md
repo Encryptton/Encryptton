@@ -29,7 +29,7 @@
   <img src="https://i.ibb.co/Dzp8LL6/javascript.png" alt="image with the javascript logo button in png format">
 </a>
 <a href="">
-  <img src="https://i.ibb.co/TK4Nsdp/mySql.png" alt="image with the mysql logo button in png format">
+  <img src="https://i.ibb.co/RNGk4Vp/mySql.png" alt="image with the mysql logo button in png format">
 </a>
 <a href="">
   <img src="https://i.ibb.co/jWpL8fG/ahk.png" alt="image with the ahk logo button in png format">
@@ -38,7 +38,7 @@
   <img src="https://i.ibb.co/prPkkGG/python.png" alt="image with the python logo button in png format">
 </a>
 <a href="">
-  <img src="https://i.ibb.co/cN2yLH3/java.png" alt="image with the java logo button in png format">
+  <img src="https://i.ibb.co/2ttkPfT/java.png" alt="image with the java logo button in png format">
 </a>
 <a href="">
   <img src="https://i.ibb.co/7vbcFCC/c.png" alt="image with the c# logo button in png format">
