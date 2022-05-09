@@ -19,4 +19,6 @@
 <a href="">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" alt="image with the php logo button in png format" width="50px" height="50px">
 </a>
-
+<a href="">
+  <img src="https://cdn.picpng.com/logo/language-logo-python-44976.png" alt="image with the python logo button in png format" width="50px" height="50px">
+</a>
