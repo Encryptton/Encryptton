@@ -1,6 +1,9 @@
-<h2 align="center">
+<h1 align="center">
   Hello, I'm Guilherme, also known as Encrypton
-</h2>
+</h1>
+<h4>
+  I'm a Full Stack programmer but I prefer the Back End, I love games and technology in general
+</h4>
 <h3>
   My contacts:
 </h3>
