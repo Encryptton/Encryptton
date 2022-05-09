@@ -17,7 +17,7 @@
   My favorite languages:
 </h3>
 <a href="">
-  <img src="https://logospng.org/wp-content/uploads/css-3.png" alt="image with the php logo button in png format" width="60px" height="60px">
+  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" alt="image with the php logo button in png format" width="60px" height="60px">
 </a>
 <a href="">
   <img src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" alt="image with the css logo button in png format" width="60px" height="60px">
