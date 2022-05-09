@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I'm Guilherme, also known as Encrypton
+  Hello, I'm Encrypton
 </h1>
 <h4 align="center">
   I'm a Full Stack programmer but I prefer the Back End, I love games and technology in general
@@ -17,10 +17,16 @@
   My favorite languages:
 </h3>
 <a href="">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" alt="image with the php logo button in png format" width="60px" height="60px">
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" alt="image with the html logo button in png format" width="40px" height="40px">
+</a>
+<a href="">
+  <img src="https://w7.pngwing.com/pngs/354/683/png-transparent-logo-mysql-database-phpmyadmin-oracle-sql-logo-blue-text-logo-thumbnail.png" alt="image with the php logo button in html format" width="60px" height="60px">
 </a>
 <a href="">
   <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" alt="image with the css logo button in png format" width="40px" height="40px">
+</a>
+<a href="">
+  <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="image with the ahk logo button in png format" width="40px" height="40px">
 </a>
 <a href="">
   <img src="https://cdn.picpng.com/logo/language-logo-python-44976.png" alt="image with the python logo button in png format" width="40px" height="40px">
@@ -29,5 +35,5 @@
   <img src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" alt="image with the java logo button in png format" width="60px" height="60px">
 </a>
 <a href="">
-  <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="image with the ahk logo button in png format" width="60px" height="60px">
+  <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="image with the ahk logo button in png format" width="40px" height="40px">
 </a>
