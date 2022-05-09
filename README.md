@@ -28,3 +28,6 @@
 <a href="">
   <img src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" alt="image with the java logo button in png format" width="60px" height="60px">
 </a>
+<a href="">
+  <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="image with the ahk logo button in png format" width="60px" height="60px">
+</a>
