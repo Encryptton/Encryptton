@@ -1,7 +1,7 @@
 <h1 align="center">
   Hello, I'm Encrypton
-  <img src="https://c.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
 </h1>
+<p align="center"><img src="https://c.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif"></p>
 <h4 align="center">
   I'm a Full Stack programmer but I prefer the Back End, I love games and technology in general
 </h4>
